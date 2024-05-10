@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|c:\\users\\lucas\\documents\\projetos_c#\\easypaperwork\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|c:\\users\\lucas\\documents\\projetos_c#\\easypaperwork\\viewmodel\\pagesetorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|solutionrelative:viewmodel\\pagesetorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|c:\\users\\lucas\\documents\\projetos_c#\\easypaperwork\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|c:\\users\\lucas\\documents\\projetos_c#\\easypaperwork\\viewmodel\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|solutionrelative:viewmodel\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\ViewModel\\PageSetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\PageSetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|c:\\users\\lucas\\documents\\projetos_c#\\easypaperwork\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|c:\\users\\lucas\\documents\\projetos_c#\\easypaperwork\\views\\pagesetor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|solutionrelative:views\\pagesetor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|c:\\users\\lucas\\documents\\projetos_c#\\easypaperwork\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|solutionrelative:views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|c:\\users\\lucas\\documents\\projetos_c#\\easypaperwork\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|solutionrelative:views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|c:\\users\\lucas\\documents\\projetos_c#\\easypaperwork\\views\\pagesetor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|solutionrelative:views\\pagesetor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|c:\\users\\lucas\\documents\\projetos_c#\\easypaperwork\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|c:\\users\\lucas\\documents\\projetos_c#\\easypaperwork\\views\\loginpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C0E60A7E-D146-401B-A8A5-68F9F46DEE52}|EasyPaperWork.csproj|solutionrelative:views\\loginpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageSetor.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\ViewModel\\PageSetor.cs",
+              "RelativeDocumentMoniker": "ViewModel\\PageSetor.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\ViewModel\\PageSetor.cs",
+              "RelativeToolTip": "ViewModel\\PageSetor.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:48:52.997Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:35:34.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\ViewModel\\LoginPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\LoginPageViewModel.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\ViewModel\\LoginPageViewModel.cs",
+              "RelativeToolTip": "ViewModel\\LoginPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:56:45.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:35:52.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:34:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageSetorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\ViewModel\\PageSetorViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\PageSetorViewModel.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\ViewModel\\PageSetorViewModel.cs",
+              "RelativeToolTip": "ViewModel\\PageSetorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:49:57.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Views\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:48:36.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "Views\\LoginPage.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAACjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T00:45:58.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageSetor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Views\\PageSetor.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\PageSetor.xaml.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Views\\PageSetor.xaml.cs",
+              "RelativeToolTip": "Views\\PageSetor.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:35:05.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T00:42:56.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageSetor.xaml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Views\\PageSetor.xaml",
+              "RelativeDocumentMoniker": "Views\\PageSetor.xaml",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Views\\PageSetor.xaml",
+              "RelativeToolTip": "Views\\PageSetor.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T00:26:19.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\Projetos_C#\\EasyPaperWork\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "Views\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T00:25:12.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+File=Resources\Images\google.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=Resources\Images\logo.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=Resources\AppIcon\appicon.svg;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=True;ForegroundScale=;ForegroundFile=Resources\AppIcon\appiconfg.svg
+File=Resources\AppIcon\appicon_android.svg;Link=;BaseSize=256,256;Resize=;TintColor=;Color=#FFFFFF;IsAppIcon=True;ForegroundScale=;ForegroundFile=Resources\AppIcon\appicon_android_fg.svg

@@ -1,0 +1,1 @@
+C:\Users\lucas\Documents\Projetos_C#\EasyPaperWork\EasyPaperWork.csproj;x64
